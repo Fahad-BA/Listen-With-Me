@@ -1,0 +1,21 @@
+[06-Dec-2018 09:38:53 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[06-Dec-2018 09:38:56 Europe/Helsinki] PHP Notice:  Undefined index: Name in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 5
+[06-Dec-2018 09:38:56 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[01-Nov-2020 13:30:52 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[01-Nov-2020 13:30:52 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[01-Nov-2020 13:30:55 Europe/Helsinki] PHP Notice:  Undefined index: Name in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 5
+[01-Nov-2020 13:30:55 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 5
+[01-Nov-2020 13:30:55 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[01-Nov-2020 13:30:55 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[01-Nov-2020 13:31:02 Europe/Helsinki] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/fhidanco/public_html/songs/editsongsfahad/db.php on line 2
+[01-Nov-2020 13:31:02 Europe/Helsinki] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fhidanco/public_html/songs/editsongsfahad/delete_user.php on line 5
+[15-Dec-2020 16:43:56 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:43:56 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:45:13 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:45:13 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:45:14 Europe/Helsinki] PHP Notice:  Undefined index: Name in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 5
+[15-Dec-2020 16:45:14 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 5
+[15-Dec-2020 16:45:14 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:45:14 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:45:19 Europe/Helsinki] PHP Notice:  Undefined index: ID in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25
+[15-Dec-2020 16:45:19 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/fhidanco/public_html/songs/editsongsfahad/edit_user.php on line 25

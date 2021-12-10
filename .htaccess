@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^songs\.fhidan\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.songs\.fhidan\.com$
+RewriteRule ^share$ "http\:\/\/songs\.fhidan\.com\/Share" [R=301,L]

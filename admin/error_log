@@ -1,0 +1,30 @@
+[14-Dec-2020 17:29:55 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[14-Dec-2020 17:40:49 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function close() on boolean in /home/fhidanco/public_html/songs/admin/update.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/fhidanco/public_html/songs/admin/update.php on line 95
+[14-Dec-2020 17:42:57 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function close() on boolean in /home/fhidanco/public_html/songs/admin/update.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/fhidanco/public_html/songs/admin/update.php on line 95
+[14-Dec-2020 17:43:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function close() on boolean in /home/fhidanco/public_html/songs/admin/update.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/fhidanco/public_html/songs/admin/update.php on line 95
+[14-Dec-2020 17:44:26 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fhidanco/public_html/songs/admin/update.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/fhidanco/public_html/songs/admin/update.php on line 72
+[14-Dec-2020 17:48:07 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fhidanco/public_html/songs/admin/update.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/fhidanco/public_html/songs/admin/update.php on line 72
+[14-Dec-2020 17:48:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/fhidanco/public_html/songs/admin/update.php on line 4
+[14-Dec-2020 17:48:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/fhidanco/public_html/songs/admin/update.php on line 4
+[15-Dec-2020 17:18:56 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[15-Dec-2020 18:39:55 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[16-Dec-2020 18:53:37 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[16-Dec-2020 20:38:13 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[17-Dec-2020 15:58:11 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[17-Dec-2020 16:03:05 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
+[30-Dec-2020 01:38:45 Europe/Helsinki] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fhidanco/public_html/songs/admin/login.php on line 59
